@@ -1,4 +1,4 @@
-### VisionTrack AI
+### AI-RoadTrack
 
 This project is designed for automated vehicle detection, lane detection, and license plate recognition using deep learning. It includes model serving capabilities with TorchServe and provides scripts for preprocessing, model inference, and result visualization.
 
