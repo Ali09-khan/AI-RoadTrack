@@ -14,7 +14,7 @@ if [ $# -lt 1 ]; then
     exit 1
 fi
 
-CONTAINER_NAME="sergek-service_2"
+CONTAINER_NAME="service"
 IMAGE_NAME="ves-patrol:5.0"
 
 case "$1" in
